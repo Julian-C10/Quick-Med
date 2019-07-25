@@ -12,6 +12,7 @@
 		F40A328222E3A8C500DD9D73 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F40A328022E3A8C500DD9D73 /* Main.storyboard */; };
 		F40A328422E3A8C600DD9D73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F40A328322E3A8C600DD9D73 /* Assets.xcassets */; };
 		F40A328722E3A8C600DD9D73 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F40A328522E3A8C600DD9D73 /* LaunchScreen.storyboard */; };
+		F40BC8F422E80E3E004DEA01 /* VideoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F40BC8F322E80E3E004DEA01 /* VideoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		F40A328322E3A8C600DD9D73 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F40A328622E3A8C600DD9D73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F40A328822E3A8C600DD9D73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F40BC8F322E80E3E004DEA01 /* VideoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				F40A327C22E3A8C400DD9D73 /* AppDelegate.swift */,
 				F40A327E22E3A8C400DD9D73 /* ViewController.swift */,
+				F40BC8F322E80E3E004DEA01 /* VideoViewController.swift */,
 				F40A328022E3A8C500DD9D73 /* Main.storyboard */,
 				F40A328322E3A8C600DD9D73 /* Assets.xcassets */,
 				F40A328522E3A8C600DD9D73 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F40A327F22E3A8C400DD9D73 /* ViewController.swift in Sources */,
+				F40BC8F422E80E3E004DEA01 /* VideoViewController.swift in Sources */,
 				F40A327D22E3A8C400DD9D73 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
